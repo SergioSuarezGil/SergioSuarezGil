@@ -35,7 +35,7 @@
 		<li><b>PHP</b>:  SlimPHP, Zend, Laravel, PHPMyadmin.</li>
 		<li><b>Python</b>: DJango. </li>
 		<li><b>DB</b>: MariaDB, MongoDB, RealmDB, Oracle, SQL Server. </li>
-		<li><b>Javascript</b>: Nodejs, Vue, React Native.</li>
+		<li><b>Javascript</b>: Angular, Nodejs, Vue, React Native.</li>
 		<li><b>Testing</b>: Cypress, Jasmine, Karma.</li>
 		<li><b>API</b>: Nodejs, Microsoft WCF, SlimPHP, RestFUL, JSON, GraphQL.</li>
 		<li><b>CMS</b>: Wordpress, WooCommerce, Prestashop, Joomla, Moodle.</li>
