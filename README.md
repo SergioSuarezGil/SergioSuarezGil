@@ -33,6 +33,7 @@
 	<summary>Other Develop Skills</summary>
 	<ul>
 		<li><b>PHP</b>:  SlimPHP, Zend, Laravel, PHPMyadmin.</li>
+		<li><b>Swift</b>: Learning right now to make my own iOS & WatchOS things:)</li>
 		<li><b>Python</b>: DJango. </li>
 		<li><b>DB</b>: MariaDB, MongoDB, RealmDB, Oracle, SQL Server. </li>
 		<li><b>Javascript</b>: Angular, Nodejs, Vue, React Native.</li>
