@@ -67,6 +67,19 @@
 	</ul>
 </details>
 
+<details>
+	<summary>Sound Design & Music</summary>
+	<ul>
+		<li>Electronic music production</li>
+		<li>Mixing & Mastering</li>
+		<li>Sampling</li>
+		<li>Sound Design</li>
+		<li>Synthesis</li>
+		<li>Ableton Live</li>
+		<li>NI Maschine</li>
+	</ul>
+</details>
+
 </br>
 
 #### Please contact me if you need any further info:
