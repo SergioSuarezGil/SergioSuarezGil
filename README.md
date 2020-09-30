@@ -33,13 +33,13 @@
 	<summary>Other Develop Skills</summary>
 	<ul>
 		<li><b>PHP</b>:  SlimPHP, Zend, Laravel, PHPMyadmin.</li>
-		<li><b>Swift</b>: Learning right now to make my own iOS & WatchOS things:)</li>
-		<li><b>Python</b>: DJango. </li>
+		<li><b>Swift</b>: Learning right now to make my own iOS & WatchOS things :)</li>
+		<li><b>Python</b>: Small data transfer scripts & websites with DJango. </li>
 		<li><b>DB</b>: MariaDB, MongoDB, RealmDB, Oracle, SQL Server. </li>
 		<li><b>Javascript</b>: Angular, Nodejs, Vue, React Native.</li>
-		<li><b>Testing</b>: Cypress, Jasmine, Karma.</li>
+		<li><b>Testing</b>: Cypress, Mocha, Jasmine, Karma.</li>
 		<li><b>API</b>: Nodejs, Microsoft WCF, SlimPHP, RestFUL, JSON, GraphQL.</li>
-		<li><b>CMS</b>: Wordpress, WooCommerce, Prestashop, Joomla, Moodle.</li>
+		<li><b>CMS</b>: Wordpress, WooCommerce, Prestashop, Moodle.</li>
 		<li><b>PHP</b>: Responsive design, MVC, MVVC, POO, Scrum, Agile.</li>
     	</ul>
 </details>
@@ -47,7 +47,7 @@
 <details>
 	<summary>Develop Utilities</summary>
 	<ul>
-		<li>Visual Studio Code.</li>
+	       <li>Visual Studio Code.</li>
 	       <li>XCode.</li>
 	       <li>Android Studio.</li>
 	       <li>Postman.</li>
