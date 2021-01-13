@@ -1,14 +1,14 @@
 
 <img width="400" src="https://sergiosuarezdev.com/images//logo.png">
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=sergiosuarezdev&style=flat-square&color=blue)
-
 </br>
 
 👨🏻‍💻 Hi! I'm Sergio Suárez, a passionate full stack web developer.
 
 📍 Spain. Born in Santiago de Compostela & living now in Valladolid.
 
+</br>
+ &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=sergiosuarezdev&style=flat-square&color=blue)
 </br>
 
 ## I'm passionate about:
