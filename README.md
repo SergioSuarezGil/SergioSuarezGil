@@ -3,6 +3,7 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=sergiosuarezdev&style=flat-square&color=blue)
 
+</br>
 
 👨🏻‍💻 Hi! I'm Sergio Suárez, a passionate full stack web developer.
 
