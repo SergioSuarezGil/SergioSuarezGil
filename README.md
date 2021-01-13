@@ -117,9 +117,5 @@
 <a target="_blank" href="https://www.linkedin.com/in/sergio-suarez"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a  target="_blank" href="https://cancanit.com/certified/1387/"><img src="https://img.shields.io/badge/JS Certified-%233f8fa7.svg?&style=for-the-badge&logo=c&logoColor=white" alt="CancanIT"></a>
 <a  target="_blank" href="https://twitter.com/SergioSuarezDEV"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://www.instagram.com/sergio_sg_dev/"><img src="https://img.shields.io/badge/Instagram-%23e7306d.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagramt"></a>
-
-
-
 
 
