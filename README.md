@@ -6,8 +6,6 @@
 
 📍 Spain. Born in Santiago de Compostela & living now in Valladolid.
 
-![](https://komarev.com/ghpvc/?username=sergiosuarezdev&style=flat-square&color=blue)
-
 </br>
 
 ## I'm passionate about:
@@ -23,7 +21,7 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%230391cb?style=flat-square&logo=css3&logoColor=ffffff)
-![SASS](https://img.shields.io/badge/-SASS-%230391cb?style=flat-square&logo=sass&logoColor=ffffff)
+![SASS](https://img.shields.io/badge/-SASS-%23bf6190?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563173?style=flat-square&logo=bootstrap&logoColor=ffffff)
 ![Javascript](https://img.shields.io/badge/-JavaScript-%23ffc742?style=flat-square&logo=JavaScript&logoColor=ffffff)
 
@@ -104,5 +102,10 @@
 <a href="mailto:info@sergiosuarezdev.com?subject=Email%20From%20SergioSuarezDEV"><img src="https://img.shields.io/badge/Contact Me-%2351A33D.svg?&style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact Me"></a>
 
 
+
+</br></br></br></br></br></br></br></br></br></br>
+
+
+![](https://komarev.com/ghpvc/?username=sergiosuarezdev&style=flat-square&color=blue)
 
 
