@@ -6,6 +6,8 @@
 
 📍 Spain. Born in Santiago de Compostela & living now in Valladolid.
 
+![](https://komarev.com/ghpvc/?username=sergiosuarezdev&style=flat-square&color=blue)
+
 </br>
 
 ## I'm passionate about:
@@ -19,10 +21,20 @@
 
 ## Skills
 
-<img src="https://img.shields.io/badge/HTML5-e96228" /> <img src="https://img.shields.io/badge/CSS3-0391cb" /> <img src="https://img.shields.io/badge/SASS-be608f" /> <img src="https://img.shields.io/badge/Bootstrap-563173" /> <img src="https://img.shields.io/badge/JavaScript-ffc742" /> 
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%230391cb?style=flat-square&logo=css3&logoColor=ffffff)
+![SASS](https://img.shields.io/badge/-SASS-%230391cb?style=flat-square&logo=sass&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563173?style=flat-square&logo=bootstrap&logoColor=ffffff)
+![Javascript](https://img.shields.io/badge/-JavaScript-%23ffc742?style=flat-square&logo=JavaScript&logoColor=ffffff)
 
 
-<img src="https://img.shields.io/badge/Typescript-3972c8" />  <img src="https://img.shields.io/badge/Angular-d70330" /> <img src="https://img.shields.io/badge/Ionic-4c8aef" /> <img src="https://img.shields.io/badge/React Native-5dcceb" /> <img src="https://img.shields.io/badge/Node-7ec729" />
+![Typescript](https://img.shields.io/badge/-Typescript-%233972c8?style=flat-square&logo=Typescript&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/-Angular-%23d70330?style=flat-square&logo=Angular&logoColor=ffffff)
+![Ionic](https://img.shields.io/badge/-Ionic-%234c8aef?style=flat-square&logo=Ionic&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-%235dcceb?style=flat-square&logo=React&logoColor=ffffff)
+![Node](https://img.shields.io/badge/-Node-%237ec729?style=flat-square&logo=Node.js&logoColor=ffffff)
+
+
 
 </br>
 
@@ -90,4 +102,7 @@
 <a  target="_blank" href="https://cancanit.com/certified/1387/"><img src="https://img.shields.io/badge/JS Certified-%233f8fa7.svg?&style=for-the-badge&logo=c&logoColor=white" alt="CancanIT"></a>
 <a  target="_blank" href="https://twitter.com/SergioSuarezDEV"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="mailto:info@sergiosuarezdev.com?subject=Email%20From%20SergioSuarezDEV"><img src="https://img.shields.io/badge/Contact Me-%2351A33D.svg?&style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact Me"></a>
+
+
+
 
