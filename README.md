@@ -1,5 +1,5 @@
 
-<img width="400" src="https://www.sergiosuarezdev.com/images/logo.png">
+<img width="400" src="https://sergiosuarezdev.com/images//logo.png">
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=sergiosuarezdev&style=flat-square&color=blue)
 
