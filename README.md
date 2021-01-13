@@ -1,6 +1,8 @@
 
 <img width="400" src="http://sergiosuarezdev.com/images/logo.png">
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=sergiosuarezdev&style=flat-square&color=blue)
+
 
 👨🏻‍💻 Hi! I'm Sergio Suárez, a passionate full stack web developer.
 
@@ -122,6 +124,5 @@
 </br></br></br></br></br></br></br></br></br></br>
 
 
-![](https://komarev.com/ghpvc/?username=sergiosuarezdev&style=flat-square&color=blue)
 
 
