@@ -24,14 +24,24 @@
 ![SASS](https://img.shields.io/badge/-SASS-%23bf6190?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563173?style=flat-square&logo=bootstrap&logoColor=ffffff)
 ![Javascript](https://img.shields.io/badge/-JavaScript-%23ffc742?style=flat-square&logo=JavaScript&logoColor=ffffff)
-
-
 ![Typescript](https://img.shields.io/badge/-Typescript-%233972c8?style=flat-square&logo=Typescript&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-%237277ae?style=flat-square&logo=PHP&logoColor=ffffff)
+![Swift](https://img.shields.io/badge/-Swift-%23f68638?style=flat-square&logo=Swift&logoColor=ffffff)
+
+
 ![Angular](https://img.shields.io/badge/-Angular-%23d70330?style=flat-square&logo=Angular&logoColor=ffffff)
 ![Ionic](https://img.shields.io/badge/-Ionic-%234c8aef?style=flat-square&logo=Ionic&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-%235dcceb?style=flat-square&logo=React&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node-%237ec729?style=flat-square&logo=Node.js&logoColor=ffffff)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-%23f76300?style=flat-square&logo=RabbitMQ&logoColor=ffffff)
 
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-%233f2e1e?style=flat-square&logo=mongodb&logoColor=ffffff)
+![RealmDB](https://img.shields.io/badge/-RealmDB-%233f2e1e?style=flat-square&logo=realm&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-%23015e85?style=flat-square&logo=mysql&logoColor=ffffff)
+![MariaDB](https://img.shields.io/badge/-MariaDB-%23ba7257?style=flat-square&logo=mariadb&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%232f5e8e?style=flat-square&logo=postgresql&logoColor=ffffff)
+![Oracle](https://img.shields.io/badge/-Oracle-%23e21921?style=flat-square&logo=oracle&logoColor=ffffff)
 
 
 </br>
