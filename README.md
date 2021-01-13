@@ -8,7 +8,9 @@
 📍 Spain. Born in Santiago de Compostela & living now in Valladolid.
 
 </br>
+
  &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=sergiosuarezdev&style=flat-square&color=blue)
+
 </br>
 
 ## I'm passionate about:
