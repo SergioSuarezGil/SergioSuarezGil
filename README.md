@@ -1,9 +1,11 @@
 
-<img width="400" src="https://sergiosuarezdev.com/images//logo.png">
+# SERGIO SUÁREZ
+
+### Full Stack Developer
 
 </br>
 
-👨🏻‍💻 Hi! I'm Sergio Suárez, a passionate full stack web developer.
+👨🏻‍💻 Hi! I'm Sergio Suárez, a passionate full stack web & iOS development.
 
 📍 Spain. Born in Santiago de Compostela & living now in Valladolid.
 
@@ -16,7 +18,8 @@
 ## I'm passionate about:
 
 - 🖥 Web development
-- 📱 Mobile apps develoment
+-  Apple ecosystem
+- 📱 Mobile & Watch apps 
 - 🎵 Sound design & music  
 - 🐶 French Bulldogs
 
