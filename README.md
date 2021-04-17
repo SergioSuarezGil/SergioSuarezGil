@@ -18,7 +18,7 @@
 ## I'm passionate about:
 
 - 🖥 Web development
--  Apple ecosystem
+- ❤️ Apple ecosystem
 - 📱 Mobile & Watch apps 
 - 🎵 Sound design & music  
 - 🐶 French Bulldogs
