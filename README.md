@@ -48,7 +48,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-%23ef880f?style=flat-square&logo=amazon-aws&logoColor=ffffff)
 
 
-
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%233f2e1e?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![RealmDB](https://img.shields.io/badge/-RealmDB-%233f2e1e?style=flat-square&logo=realm&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-%23015e85?style=flat-square&logo=mysql&logoColor=ffffff)
@@ -67,14 +66,13 @@
 	<summary>Other Develop Skills</summary>
 	<ul>
 		<li><b>PHP</b>:  SlimPHP, Zend, Laravel, PHPMyadmin.</li>
-		<li><b>Swift</b>: Learning right now to make my own iOS & WatchOS things :)</li>
-		<li><b>Python</b>: Small data transfer scripts & websites with DJango. </li>
+		<li><b>Swift</b>: Learning to make my own WatchOS things :)</li>
 		<li><b>DB</b>: MariaDB, MongoDB, RealmDB, Oracle, SQL Server. </li>
-		<li><b>Javascript</b>: Angular, Nodejs, Vue, React Native.</li>
+		<li><b>Javascript</b>: Angular, Nodejs, React Native.</li>
 		<li><b>Testing</b>: Cypress, Mocha, Jasmine, Karma.</li>
 		<li><b>API</b>: Nodejs, Microsoft WCF, SlimPHP, RestFUL, JSON, GraphQL.</li>
 		<li><b>CMS</b>: Wordpress, WooCommerce, Prestashop, Moodle.</li>
-		<li><b>PHP</b>: Responsive design, MVC, MVVC, POO, Scrum, Agile.</li>
+		<li><b>Other</b>: Responsive design, MVC, MVVC, POO, Scrum, Agile.</li>
     	</ul>
 </details>
 
