@@ -5,7 +5,7 @@
 
 </br>
 
-👨🏻‍💻 Hi! I'm Sergio Suárez, a passionate full stack web developer, Sysadmin & Sound Technician
+👨🏻‍💻 Hi! I'm Sergio Suárez. Full stack web developer, SysAdmin & Sound Technician
 
 📍 Spain. Born in Santiago de Compostela & living now in Valladolid.
 
