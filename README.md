@@ -34,28 +34,29 @@
 ![Javascript](https://img.shields.io/badge/-JavaScript-%23efd81e?style=flat-square&logo=JavaScript&logoColor=ffffff)
 ![Typescript](https://img.shields.io/badge/-Typescript-%233972c8?style=flat-square&logo=Typescript&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-%237277ae?style=flat-square&logo=PHP&logoColor=ffffff)
-![Swift](https://img.shields.io/badge/-Swift-%23f68638?style=flat-square&logo=Swift&logoColor=ffffff)
-
 
 ![Angular](https://img.shields.io/badge/-Angular-%23d70330?style=flat-square&logo=Angular&logoColor=ffffff)
 ![Ionic](https://img.shields.io/badge/-Ionic-%234c8aef?style=flat-square&logo=Ionic&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-%235dcceb?style=flat-square&logo=React&logoColor=ffffff)
+![ReactJS](https://img.shields.io/badge/-React-%235dcceb?style=flat-square&logo=React&logoColor=ffffff)
+![NestJS](https://img.shields.io/badge/-Nestjs-%23d70330?style=flat-square&logo=Nestjs&logoColor=ffffff)
+![Vuejs](https://img.shields.io/badge/-Vuejs-%233fb27f?style=flat-square&logo=Nestjs&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node-%237ec729?style=flat-square&logo=Node.js&logoColor=ffffff)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-%23f76300?style=flat-square&logo=RabbitMQ&logoColor=ffffff)
 ![JQuery](https://img.shields.io/badge/-JQuery-%230865a8?style=flat-square&logo=JQuery&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-%230d97e4?style=flat-square&logo=Docker&logoColor=ffffff)
-![GIT](https://img.shields.io/badge/-Git-%23e84e32?style=flat-square&logo=GIT&logoColor=ffffff)
-![AWS](https://img.shields.io/badge/-AWS-%23ef880f?style=flat-square&logo=amazon-aws&logoColor=ffffff)
-
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%233f2e1e?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![RealmDB](https://img.shields.io/badge/-RealmDB-%233f2e1e?style=flat-square&logo=realm&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-%23015e85?style=flat-square&logo=mysql&logoColor=ffffff)
-![SQLite](https://img.shields.io/badge/-SQLite-%233394d0?style=flat-square&logo=SQLite&logoColor=ffffff)
-![MariaDB](https://img.shields.io/badge/-MariaDB-%23ba7257?style=flat-square&logo=mariadb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%232f5e8e?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![Oracle](https://img.shields.io/badge/-Oracle-%23e21921?style=flat-square&logo=oracle&logoColor=ffffff)
+![SQLite](https://img.shields.io/badge/-SQLite-%233394d0?style=flat-square&logo=SQLite&logoColor=ffffff)
 
+
+![JSON](https://img.shields.io/badge/-JSON-%23363636?style=flat-square&logo=JSON&logoColor=ffffff)
+![GraphQL](https://img.shields.io/badge/-Graphql-%23da0593?style=flat-square&logo=Graphql&logoColor=ffffff)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-%23da0593?style=flat-square&logo=RabbitMQ&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-%230d97e4?style=flat-square&logo=Docker&logoColor=ffffff)
+![GIT](https://img.shields.io/badge/-Git-%23e84e32?style=flat-square&logo=GIT&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/-AWS-%23ef880f?style=flat-square&logo=amazon-aws&logoColor=ffffff)
 
 </br>
 
