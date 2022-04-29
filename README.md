@@ -72,7 +72,6 @@
 		<li><b>CMS</b>: Wordpress, WooCommerce, Prestashop, Moodle.</li>
 		<li><b>Bash</b>: I love bash scripting to automate tasks.  </li>
 		<li><b>Other</b>: Responsive design, MVC, MVVC, POO, Scrum, Agile.</li>
-
     	</ul>
 </details>
 
