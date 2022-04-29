@@ -33,13 +33,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563173?style=flat-square&logo=bootstrap&logoColor=ffffff)
 ![Javascript](https://img.shields.io/badge/-JavaScript-%23efd81e?style=flat-square&logo=JavaScript&logoColor=ffffff)
 ![Typescript](https://img.shields.io/badge/-Typescript-%233972c8?style=flat-square&logo=Typescript&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/-PHP-%237277ae?style=flat-square&logo=PHP&logoColor=ffffff)
 
 ![Angular](https://img.shields.io/badge/-Angular-%23d70330?style=flat-square&logo=Angular&logoColor=ffffff)
 ![Ionic](https://img.shields.io/badge/-Ionic-%234c8aef?style=flat-square&logo=Ionic&logoColor=ffffff)
 ![ReactJS](https://img.shields.io/badge/-React-%235dcceb?style=flat-square&logo=React&logoColor=ffffff)
 ![NestJS](https://img.shields.io/badge/-Nestjs-%23d70330?style=flat-square&logo=Nestjs&logoColor=ffffff)
-![Vuejs](https://img.shields.io/badge/-Vuejs-%233fb27f?style=flat-square&logo=Nestjs&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node-%237ec729?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![JQuery](https://img.shields.io/badge/-JQuery-%230865a8?style=flat-square&logo=JQuery&logoColor=ffffff)
 
