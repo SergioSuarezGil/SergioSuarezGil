@@ -39,9 +39,9 @@
 ![React](https://img.shields.io/badge/-React-%235dcceb?style=flat-square&logo=React&logoColor=ffffff)
 ![Nest](https://img.shields.io/badge/-Nestjs-%23d70330?style=flat-square&logo=Nestjs&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node-%237ec729?style=flat-square&logo=Node.js&logoColor=ffffff)
+![JQuery](https://img.shields.io/badge/-JQuery-%230865a8?style=flat-square&logo=JQuery&logoColor=ffffff)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%233f2e1e?style=flat-square&logo=mongodb&logoColor=ffffff)
-![RealmDB](https://img.shields.io/badge/-RealmDB-%233f2e1e?style=flat-square&logo=realm&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-%23015e85?style=flat-square&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%232f5e8e?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![Oracle](https://img.shields.io/badge/-Oracle-%23e21921?style=flat-square&logo=oracle&logoColor=ffffff)
@@ -63,14 +63,16 @@
 <details>
 	<summary>- Other Develop Skills</summary>
 	<ul>
+		<li><b>Javascript</b>: JQuery, Angular, React, Nodejs, React Native, learning Vuejs, JQuery.</li>
 		<li><b>PHP</b>:  SlimPHP, Zend, Laravel, PHPMyadmin.</li>
-		<li><b>Swift</b>: Learning to make my own WatchOS things :)</li>
-		<li><b>DB</b>: MariaDB, MongoDB, RealmDB, Oracle, SQL Server. </li>
-		<li><b>Javascript</b>: Angular, Nodejs, React Native, Vuejs, JQuery.</li>
+		<li><b>DB</b>: POstgreSQL, MariaDB & MySQL, MongoDB, RealmDB, Oracle, SQLServer. </li>
 		<li><b>Testing</b>: Cypress, Mocha, Jest, Jasmine, Karma.</li>
+		<li><b>Swift</b>: Learning to make my own WatchOS things :)</li>
 		<li><b>API</b>: Nodejs, Microsoft WCF, SlimPHP, RestFUL, JSON, GraphQL.</li>
 		<li><b>CMS</b>: Wordpress, WooCommerce, Prestashop, Moodle.</li>
+		<li><b>Bash</b>: I love bash scripting to automate tasks.  </li>
 		<li><b>Other</b>: Responsive design, MVC, MVVC, POO, Scrum, Agile.</li>
+
     	</ul>
 </details>
 
@@ -84,6 +86,8 @@
 	       <li>Insomnia.</li>
 	       <li>Git Fork.</li>
 	       <li>Sourcetre.</li>
+	       <li>Altair GraphQL.</li>
+	       <li>JIRA.</li>
 	</ul>
 </details>
 
