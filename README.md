@@ -17,7 +17,7 @@
 
 ## I'm passionate about:
 
-- 🖥 Web/Apps development
+- 🖥 Back & hybrid apps development
 - 📱 Apple ecosystem
 - 🧾 Blockchain, Web3, NFTs
 - 🎵 Sound design & music  
@@ -61,22 +61,21 @@
 
 
 <details>
-	<summary>- Other Develop Skills</summary>
+	<summary>Other Develop Skills</summary>
 	<ul>
-		<li><b>Javascript</b>: JQuery, Angular, React, Nodejs, React Native, learning Vuejs, JQuery.</li>
-		<li><b>PHP</b>:  SlimPHP, Zend, Laravel, PHPMyadmin.</li>
-		<li><b>DB</b>: POstgreSQL, MariaDB & MySQL, MongoDB, RealmDB, Oracle, SQLServer. </li>
+		<li><b>Javascript</b>: JQuery, Angular, NestJs, React, Nodejs, Express, React Native, Nuxt, JQuery.</li>
+		<li><b>DB</b>: PostgreSQL, MariaDB & MySQL, MongoDB, Elastic, Oracle, SQLServer. </li>
+		<li><b>PHP</b>:  SlimPHP, PHPMyadmin.</li>
 		<li><b>Testing</b>: Cypress, Mocha, Jest, Jasmine, Karma.</li>
 		<li><b>Swift</b>: Learning to make my own WatchOS things :)</li>
-		<li><b>API</b>: Nodejs, Microsoft WCF, SlimPHP, RestFUL, JSON, GraphQL.</li>
-		<li><b>CMS</b>: Wordpress, WooCommerce, Prestashop, Moodle.</li>
+		<li><b>API</b>: Nodejs, Microsoft WCF, SlimPHP, RestFUL, Swagger, JSON, GraphQL.</li>
 		<li><b>Bash</b>: I love bash scripting to automate tasks.  </li>
 		<li><b>Other</b>: Responsive design, MVC, MVVC, POO, Scrum, Agile.</li>
     	</ul>
 </details>
 
 <details>
-	<summary>- Develop Utilities</summary>
+	<summary>Develop Utilities</summary>
 	<ul>
 	       <li>Visual Studio Code.</li>
 	       <li>XCode.</li>
@@ -91,17 +90,17 @@
 </details>
 
 <details>
-	<summary>- Operating Systems & Cloud</summary>
+	<summary>Operating Systems & Cloud</summary>
 	<ul>
 		<li><b>Systems</b>: Windows Server, MacOS, Linux.</li>
 		<li><b>Cloud</b>: Amazon AWS, MS Azure, Google Cloud.</li>
-		<li><b>VM</b>: Docker, VMWare, VirtualBox.</li>
+		<li><b>VM</b>: Docker, Kubernetes, VMWare, VirtualBox.</li>
 		<li><b>Web Servers</b>: Apache, Nginx.</li>
 	</ul>
 </details>
 
 <details>
-	<summary>- Sound Design & Music</summary>
+	<summary>Sound Design & Music</summary>
 	<ul>
 		<li>Electronic music production.</li>
 		<li>Mixing & Mastering.</li>
@@ -120,8 +119,8 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/sergio-suarez"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a  target="_blank" href="https://cancanit.com/certified/1387/"><img src="https://img.shields.io/badge/JS Certified-%233f8fa7.svg?&style=for-the-badge&logo=c&logoColor=white" alt="CancanIT"></a>
-<a  target="_blank" href="https://twitter.com/SergioSuarezDEV"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a  target="_blank" href="https://dev.to/sergiosuarezdev"><img src="https://img.shields.io/badge/DEV.TO-%23000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Twitter"></a>
+<a  target="_blank" href="https://x/SergioSuarezDEV"><img src="https://img.shields.io/badge/X    -%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="X"></a>
+<a  target="_blank" href="https://dev.to/sergiosuarezdev"><img src="https://img.shields.io/badge/DEV.TO-%23000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.To"></a>
 <a  target="_blank" href="mailto:&#105;&#110;&#102;&#111;&#064;&#115;&#101;&#114;&#103;&#105;&#111;&#115;&#117;&#097;&#114;&#101;&#122;&#100;&#101;&#118;&#046;&#099;&#111;&#109;
 "><img src="https://img.shields.io/badge/Email me-%23EC5664.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
 
