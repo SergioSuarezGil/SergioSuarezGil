@@ -11,15 +11,11 @@
 
 </br>
 
- &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=sergiosuarezdev&style=flat-square&color=blue)
-
-</br>
-
 ## I'm passionate about:
 
 - 🖥 Back & hybrid apps development
 - 📱 Apple ecosystem
-- 🧾 Blockchain, Web3, NFTs
+- 🧾 Blockchain, IA, Web3, NFTs
 - 🎵 Sound design & music  
 - 🐶 French Bulldogs
 
@@ -38,16 +34,18 @@
 ![Ionic](https://img.shields.io/badge/-Ionic-%234c8aef?style=flat-square&logo=Ionic&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-%235dcceb?style=flat-square&logo=React&logoColor=ffffff)
 ![Nest](https://img.shields.io/badge/-Nestjs-%23d70330?style=flat-square&logo=Nestjs&logoColor=ffffff)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%2300C58E?style=flat-square&logo=nuxt.js&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node-%237ec729?style=flat-square&logo=Node.js&logoColor=ffffff)
-![JQuery](https://img.shields.io/badge/-JQuery-%230865a8?style=flat-square&logo=JQuery&logoColor=ffffff)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%233f2e1e?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-%23015e85?style=flat-square&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%232f5e8e?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![Oracle](https://img.shields.io/badge/-Oracle-%23e21921?style=flat-square&logo=oracle&logoColor=ffffff)
 ![SQLite](https://img.shields.io/badge/-SQLite-%233394d0?style=flat-square&logo=SQLite&logoColor=ffffff)
+![Elastic](https://img.shields.io/badge/-Elastic-%2300AFAA?style=flat-square&logo=elastic&logoColor=ffffff)
 
-
+![IA](https://img.shields.io/badge/-AI-%237C3AED?style=flat-square&logo=ai&logoColor=ffffff)
+![Blockchain](https://img.shields.io/badge/-Blockchain-%2300CED1?style=flat-square&logo=blockchain&logoColor=ffffff)
 ![JSON](https://img.shields.io/badge/-JSON-%23363636?style=flat-square&logo=JSON&logoColor=ffffff)
 ![GraphQL](https://img.shields.io/badge/-Graphql-%23da0593?style=flat-square&logo=Graphql&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%230d97e4?style=flat-square&logo=Docker&logoColor=ffffff)
@@ -118,11 +116,16 @@
 ## Reach me on:
 
 <a target="_blank" href="https://www.linkedin.com/in/sergio-suarez"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a  target="_blank" href="https://x.com/SergioSuarezDEV"><img src="https://img.shields.io/badge/SergioSuarezDev-%23000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 <a  target="_blank" href="https://cancanit.com/certified/1387/"><img src="https://img.shields.io/badge/JS Certified-%233f8fa7.svg?&style=for-the-badge&logo=c&logoColor=white" alt="CancanIT"></a>
-<a  target="_blank" href="https://x/SergioSuarezDEV"><img src="https://img.shields.io/badge/X    -%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="X"></a>
 <a  target="_blank" href="https://dev.to/sergiosuarezdev"><img src="https://img.shields.io/badge/DEV.TO-%23000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.To"></a>
 <a  target="_blank" href="mailto:&#105;&#110;&#102;&#111;&#064;&#115;&#101;&#114;&#103;&#105;&#111;&#115;&#117;&#097;&#114;&#101;&#122;&#100;&#101;&#118;&#046;&#099;&#111;&#109;
 "><img src="https://img.shields.io/badge/Email me-%23EC5664.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
+
+
+</br></br></br></br>
+
+![](https://komarev.com/ghpvc/?username=sergiosuarezdev&style=flat-square&color=blue)
 
 
 
