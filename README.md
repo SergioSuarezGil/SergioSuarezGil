@@ -119,8 +119,7 @@
 <a  target="_blank" href="https://x.com/Sergio_SZG"><img src="https://img.shields.io/badge/Sergio_SZG-%23000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 <a  target="_blank" href="https://cancanit.com/certified/1387/"><img src="https://img.shields.io/badge/JS Certified-%233f8fa7.svg?&style=for-the-badge&logo=c&logoColor=white" alt="CancanIT"></a>
 <a  target="_blank" href="https://dev.to/SergioSuarezGil"><img src="https://img.shields.io/badge/DEV.TO-%23000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.To"></a>
-<a  target="_blank" href="&#109;ailto&#58;so%79&#64;%73%65r%67&#105;o&#37;&#55;&#51;uare%&#55;A&#103;i&#108;&#46;com'>soy&#64;se&#114;giosua&#114;&#101;zgil&#46;co&#109;
-"><img src="https://img.shields.io/badge/Email me-%23EC5664.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
+<a  target="_blank" href="&#109;ailto&#58;so%79&#64;%73%65r%67&#105;o&#37;&#55;&#51;uare%&#55;A&#103;i&#108;&#46;com"><img src="https://img.shields.io/badge/Email me-%23EC5664.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
 
 
 </br></br></br></br>
