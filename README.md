@@ -116,16 +116,16 @@
 ## Reach me on:
 
 <a target="_blank" href="https://www.linkedin.com/in/sergio-suarez"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a  target="_blank" href="https://x.com/SergioSuarezDEV"><img src="https://img.shields.io/badge/SergioSuarezDev-%23000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a  target="_blank" href="https://x.com/Sergio_SZG"><img src="https://img.shields.io/badge/Sergio_SZG-%23000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 <a  target="_blank" href="https://cancanit.com/certified/1387/"><img src="https://img.shields.io/badge/JS Certified-%233f8fa7.svg?&style=for-the-badge&logo=c&logoColor=white" alt="CancanIT"></a>
-<a  target="_blank" href="https://dev.to/sergiosuarezdev"><img src="https://img.shields.io/badge/DEV.TO-%23000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.To"></a>
+<a  target="_blank" href="https://dev.to/SergioSuarezGil"><img src="https://img.shields.io/badge/DEV.TO-%23000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.To"></a>
 <a  target="_blank" href="mailto:&#105;&#110;&#102;&#111;&#064;&#115;&#101;&#114;&#103;&#105;&#111;&#115;&#117;&#097;&#114;&#101;&#122;&#100;&#101;&#118;&#046;&#099;&#111;&#109;
 "><img src="https://img.shields.io/badge/Email me-%23EC5664.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
 
 
 </br></br></br></br>
 
-![](https://komarev.com/ghpvc/?username=sergiosuarezdev&style=flat-square&color=blue)
+![](https://komarev.com/ghpvc/?username=SergioSuarezGil&style=flat-square&color=blue)
 
 
 
