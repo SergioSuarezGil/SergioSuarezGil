@@ -125,7 +125,6 @@
 
 </br></br></br></br>
 
-![](https://komarev.com/ghpvc/?username=SergioSuarezGil&style=flat-square&color=blue)
 
 
 
