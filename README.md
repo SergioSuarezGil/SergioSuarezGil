@@ -176,22 +176,8 @@ Actively completing a modern front-end & tooling bootcamp focused on:
 
 ## Reach me on
 
-<a target="_blank" href="https://www.linkedin.com/in/sergio-suarez">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a target="_blank" href="https://x.com/Sergio_SZG">
-  <img src="https://img.shields.io/badge/Sergio_SZG-%23000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X">
-</a>
-
-<a target="_blank" href="https://cancanit.com/certified/1387/">
-  <img src="https://img.shields.io/badge/JS%20Certified-%233f8fa7.svg?&style=for-the-badge&logo=c&logoColor=white" alt="CancanIT">
-</a>
-
-<a target="_blank" href="https://dev.to/SergioSuarezGil">
-  <img src="https://img.shields.io/badge/DEV.TO-%23000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.To">
-</a>
-
-<a target="_blank" href="mailto:sergiosgil@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20me-%23EC5664.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email me">
-</a>
+<a target="_blank" href="https://www.linkedin.com/in/sergio-suarez"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=lucid&logoColor=white" alt="LinkedIn"></a>
+<a target="_blank" href="https://x.com/Sergio_SZG"><img src="https://img.shields.io/badge/Sergio_SZG-%23000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a target="_blank" href="https://cancanit.com/certified/1387/"><img src="https://img.shields.io/badge/JS%20Certified-%233f8fa7.svg?&style=for-the-badge&logo=c&logoColor=white" alt="CancanIT"></a>
+<a target="_blank" href="https://dev.to/SergioSuarezGil"><img src="https://img.shields.io/badge/DEV.TO-%23000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.To"></a>
+<a target="_blank" href="mailto:sergiosgil@gmail.com"><img src="https://img.shields.io/badge/Email%20me-%23EC5664.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
