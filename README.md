@@ -180,4 +180,4 @@ Actively completing a modern front-end & tooling bootcamp focused on:
 <a target="_blank" href="https://x.com/Sergio_SZG"><img src="https://img.shields.io/badge/Sergio_SZG-%23000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 <a target="_blank" href="https://cancanit.com/certified/1387/"><img src="https://img.shields.io/badge/JS%20Certified-%233f8fa7.svg?&style=for-the-badge&logo=c&logoColor=white" alt="CancanIT"></a>
 <a target="_blank" href="https://dev.to/SergioSuarezGil"><img src="https://img.shields.io/badge/DEV.TO-%23000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.To"></a>
-<a target="_blank" href="mailto:sergiosgil@gmail.com"><img src="https://img.shields.io/badge/Email%20me-%23EC5664.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
+<a target="_blank" href="mailto&#58;%73o&#37;79&#64;&#115;e%72gi&#111;su&#97;rez&#103;i%&#54;C&#46;com"><img src="https://img.shields.io/badge/Email%20me-%23EC5664.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
