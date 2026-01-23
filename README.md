@@ -5,7 +5,7 @@
 🙋🏻 Hi! I'm Sergio Suárez — a backend-focused full stack developer passionate about **scalable, cloud-native backends**.  
 💻 I work mainly with **Node.js + TypeScript microservices**, **DDD & hexagonal architectures**, **MongoDB/PostgreSQL**, and **message queues** (Kafka, Redis, RabbitMQ). On the frontend, I deliver robust SPAs with **Angular** when the product needs it.
 
-💼 Currently working as Full Stack Developer @ **Santander Universidades (Banco Santander)** with **Kairós Digital Solutions**.  
+💼 Currently working as Full Stack Developer @ **Santander Universidades (Banco Santander)**
 📦 I love API design, automation, testing, documentation and distributed systems.  
 🧪 In my spare time, I explore backend performance and tooling using **Go (GoLang)** in personal projects.  
 🎧 I studied **Sound Engineering** before Computer Engineering, so I also have a strong background in audio tech and sound design.
