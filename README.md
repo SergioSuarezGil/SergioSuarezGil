@@ -158,16 +158,18 @@ I integrate AI into real engineering workflows to improve developer productivity
 Technologies I use most in production projects:
 
 - **Santander Universidades (Banco Santander) – Kairós DS**  
-  Node.js, TypeScript, Angular, **microservices**, **gRPC**, **Elasticsearch**, MongoDB, Redis, **Kafka**, Kubernetes, **Helm**, Swagger/OpenAPI, WebSockets, AWS.
+  Node.js, TypeScript, Angular, **microservices**, **gRPC**, **Elasticsearch**, MongoDB, Redis, **Kafka**, Kubernetes, **Helm**, Swagger/OpenAPI, WebSockets, AWS.  
+  Actively leveraging **GitHub Copilot** and AI-assisted workflows to improve development speed, refactoring quality and test coverage consistency within backend microservices.
+
+- **Wattwin**  
+  Backend Components Tech Lead with Node.js, TypeScript, **NestJS**, Express, **microservices & shared libraries**, MongoDB, Elasticsearch, Docker, AWS, OpenAPI, event-driven comms (Deepstream).  
+  Experimented with AI-driven backend tooling using **Claude (Anthropic LLM)** and internal AI workflows, building microservices designed to integrate LLM-based capabilities into backend systems.
 
 - **PagoNxt (Banco Santander) – Kairós DS**  
   Backend Tech Lead & Backend Developer building **DDD microservices** with **Node.js**, Express, TypeScript, Jest, Swagger, PostgreSQL, AWS, JSON Schema, Kubernetes.
 
-- **Wattwin**  
-  Backend Components Tech Lead with Node.js, TypeScript, **NestJS**, Express, **microservices & shared libraries**, MongoDB, Elasticsearch, Docker, AWS, OpenAPI, event-driven comms (Deepstream).
-
 - **Syntonize / MAHLE / CIS21 & others**  
-  Full stack roles using Angular, Ionic, React, Node.js, GraphQL, PostgreSQL, MongoDB, RabbitMQ, Docker, AWS/Azure, mobile & hybrid apps, plus earlier sysadmin & .NET background.
+  Full stack roles using Angular, Ionic, React, Node.js, GraphQL, PostgreSQL, MongoDB, RabbitMQ, Docker, AWS/Azure, mobile & hybrid apps, plus earlier sysadmin & .NET background..
 
 ---
 
