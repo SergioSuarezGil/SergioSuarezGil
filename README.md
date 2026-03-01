@@ -2,8 +2,9 @@
 
 ### Senior Full Stack Developer · Node.js · TypeScript · Go · Angular · AWS
 
-🙋🏻 Hi! I'm Sergio Suárez — a backend-focused full stack developer passionate about **scalable, cloud-native backends**.  
-💻 I work mainly with **Node.js + TypeScript microservices**, **DDD & hexagonal architectures**, **MongoDB/PostgreSQL**, and **message queues** (Kafka, Redis, RabbitMQ). On the frontend, I deliver robust SPAs with **Angular** when the product needs it.
+🙋🏻 Hi! I'm Sergio Suárez — a backend-focused full stack developer passionate about **scalable, cloud-native backends**.
+
+💻 I work mainly with **Node.js + TypeScript microservices**, **DDD & hexagonal architectures**, **MongoDB/PostgreSQL**, and **message queues** (Kafka, Redis, RabbitMQ). On the frontend, I deliver robust SPAs with **Angular** when the product needs it and I actively integrate **AI-assisted tooling and automation** into engineering workflows to improve productivity and code quality.
 
 💼 Currently working as Full Stack Developer @ **Santander Universidades (Banco Santander)**
 📦 I love API design, automation, testing, documentation and distributed systems.  
@@ -36,12 +37,12 @@
 
 **Architectures & patterns**
 
-- Clean architecture & hexagonal architecture  
-- Domain-Driven Design (**DDD**)  
-- **Microservices** & distributed systems  
-- RESTful APIs, gRPC & GraphQL  
-- Event-driven systems & pub/sub  
-- JSON Schema, validation & contracts  
+- Clean architecture & hexagonal architecture
+- Domain-Driven Design (**DDD**)
+- **Microservices** & distributed systems
+- RESTful APIs, gRPC & GraphQL
+- Event-driven systems & pub/sub
+- JSON Schema, validation & contracts
 
 ---
 
@@ -88,10 +89,10 @@
 ![Karma](https://img.shields.io/badge/Karma-3DDC84?style=for-the-badge&logo=kaios&logoColor=white)
 ![Supertest](https://img.shields.io/badge/-Supertest-%23323330?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
 
-- Unit & integration tests with **Jest / Vitest** (Node.js, TypeScript)  
-- Component tests with **Testing Library** (React / Angular)  
-- e2e testing with **Cypress** & **Playwright**  
-- Contract testing & API-first workflows (OpenAPI/Swagger)  
+- Unit & integration tests with **Jest / Vitest** (Node.js, TypeScript)
+- Component tests with **Testing Library** (React / Angular)
+- e2e testing with **Cypress** & **Playwright**
+- Contract testing & API-first workflows (OpenAPI/Swagger)
 
 ---
 
@@ -117,17 +118,38 @@
 ![Apache](https://img.shields.io/badge/-Apache-%23D22128?style=for-the-badge&logo=apache&logoColor=ffffff)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-- CI/CD, microservices deployment, observability basics  
-- SysAdmin background (Windows Server, Linux, networking)  
+- CI/CD, microservices deployment, observability basics
+- SysAdmin background (Windows Server, Linux, networking)
+
+---
+
+## 🤖 AI-Augmented Engineering & Developer Tooling
+
+I integrate AI into real engineering workflows to improve developer productivity, code quality and feedback cycles — treating AI as part of the development process, not just as a coding assistant.
+
+### 🔍 AI-Assisted Code Review
+
+- Integrated **PR-Agent (Qodo AI)** into GitHub Actions CI pipelines to automate pull request reviews.
+- Designed structured prompts and guardrails to ensure consistent, actionable feedback across repositories.
+- Accelerated review cycles while maintaining engineering standards and code consistency.
+
+### 🧠 AI in Architecture & Development Workflows
+
+- Completed a **Master’s program in Artificial Intelligence**, strengthening my understanding of ML fundamentals and applied AI tooling.
+- Advanced daily use of **Microsoft GitHub Copilot**, **ChatGPT (GPT models including codex)** and **Claude Code** for:
+  - Architecture design and trade-off analysis
+  - Refactoring and test generation
+  - API contract design and validation logic
+  - Debugging complex distributed backend systems
 
 ---
 
 ### 🧰 Tools & Utilities
 
-- IDEs & editors: Visual Studio Code, Xcode, Android Studio  
-- API tools: Postman, Insomnia, Altair GraphQL  
-- VCS & project tools: Git, Git Fork, Sourcetree, Bitbucket, GitLab, JIRA  
-- Scripting: **bash** for automation and tooling  
+- IDEs & editors: Visual Studio Code, Xcode, Android Studio
+- API tools: Postman, Insomnia, Altair GraphQL
+- VCS & project tools: Git, Git Fork, Sourcetree, Bitbucket, GitLab, JIRA
+- Scripting: **bash** for automation and tooling
 
 ---
 
@@ -153,24 +175,24 @@ Technologies I use most in production projects:
 
 Actively completing a modern front-end & tooling bootcamp focused on:
 
-- **Advanced Layout & UX**: responsive design, CSS Grid/Flexbox, animations, design patterns, accessibility, **Figma → CSS**.  
-- **Modern JavaScript / TypeScript**: core & advanced language features, best practices and architecture for frontend apps.  
-- **Styling & frameworks**: Tailwind, CSS-in-JS, design systems.  
-- **Bundling & libraries**: Webpack, **Vite** (apps & libraries), Rollup, Turborepo, monorepo patterns.  
-- **Frameworks & meta-frameworks**: React, Angular, Vue, Svelte, Solid, Web Components, Lit, Astro, Next.js, TanStack Start, Nuxt, Micro-frontends.  
-- **Testing**: unit & integration tests with Jest/Vitest + Testing Library (React/Angular) and **e2e with Cypress & Playwright**.  
-- **APIs & cloud**: REST APIs, WebSockets, GraphQL, payment integrations, Docker, basic cloud deploys.  
+- **Advanced Layout & UX**: responsive design, CSS Grid/Flexbox, animations, design patterns, accessibility, **Figma → CSS**.
+- **Modern JavaScript / TypeScript**: core & advanced language features, best practices and architecture for frontend apps.
+- **Styling & frameworks**: Tailwind, CSS-in-JS, design systems.
+- **Bundling & libraries**: Webpack, **Vite** (apps & libraries), Rollup, Turborepo, monorepo patterns.
+- **Frameworks & meta-frameworks**: React, Angular, Vue, Svelte, Solid, Web Components, Lit, Astro, Next.js, TanStack Start, Nuxt, Micro-frontends.
+- **Testing**: unit & integration tests with Jest/Vitest + Testing Library (React/Angular) and **e2e with Cypress & Playwright**.
+- **APIs & cloud**: REST APIs, WebSockets, GraphQL, payment integrations, Docker, basic cloud deploys.
 - **Mobility**: PWA and React Native.
 
 ---
 
 ## A bit more about me
 
-- Backend is my main strength: APIs, microservices, RESTful, GraphQL, and more.  
-- Strong **Node.js + TypeScript** experience across fintech, banking, energy and web platforms.  
-- SysAdmin roots: networking, servers, Windows + Linux environments.  
-- Solid **audio engineering** background → I enjoy performance, signal-flow thinking and audio-related projects.  
-- Team player, tech lead, tech mentor & problem solver.  
+- Backend is my main strength: APIs, microservices, RESTful, GraphQL, and more.
+- Strong **Node.js + TypeScript** experience across fintech, banking, energy and web platforms.
+- SysAdmin roots: networking, servers, Windows + Linux environments.
+- Solid **audio engineering** background → I enjoy performance, signal-flow thinking and audio-related projects.
+- Team player, tech lead, tech mentor & problem solver.
 
 ---
 
