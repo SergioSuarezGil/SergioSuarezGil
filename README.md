@@ -164,6 +164,7 @@ Technologies I use most in production projects:
 - **Wattwin**  
   Backend Components Tech Lead with Node.js, TypeScript, **NestJS**, Express, **microservices & shared libraries**, MongoDB, Elasticsearch, Docker, AWS, OpenAPI, event-driven comms (Deepstream).  
   Experimented with AI-driven backend tooling using **Claude (Anthropic LLM)** and internal AI workflows, building microservices designed to integrate LLM-based capabilities into backend systems.
+  Built a NestJS/TypeScript microservice integrating LangChain with an Anthropic LLM chat model for AI-driven conversational capabilities.
 
 - **PagoNxt (Banco Santander) – Kairós DS**  
   Backend Tech Lead & Backend Developer building **DDD microservices** with **Node.js**, Express, TypeScript, Jest, Swagger, PostgreSQL, AWS, JSON Schema, Kubernetes.
