@@ -2,14 +2,16 @@
 
 ### Senior Full Stack Developer · Node.js · TypeScript · Go · Angular · AWS
 
-🙋🏻 Hi! I'm Sergio Suárez — a backend-focused full stack developer passionate about **scalable, cloud-native backends**.
+🙋🏻 Hi! I'm Sergio Suárez — a Senior Full Stack Developer passionate about building scalable distributed systems and modern cross-platform applications.
 
-💻 I work mainly with **Node.js + TypeScript microservices**, **DDD & hexagonal architectures**, **MongoDB/PostgreSQL**, and **message queues** (Kafka, Redis, RabbitMQ). On the frontend, I deliver robust SPAs with **Angular** when the product needs it and I actively integrate **AI-assisted tooling and automation** into engineering workflows to improve productivity and code quality.
+💻 I specialize in the TypeScript ecosystem, architecting robust Node.js microservices (DDD & Hexagonal) while delivering high-performance web and mobile experiences with Angular and Ionic. I bridge the gap between complex cloud-native backends (AWS, Kafka, Redis, RabbitMQ) and polished, reactive interfaces.
 
-💼 Currently working as Full Stack Developer @ **Santander Universidades (Banco Santander)**
-📦 I love API design, automation, testing, documentation and distributed systems.  
-🧪 In my spare time, I explore backend performance and tooling using **Go (GoLang)** in personal projects.  
-🎧 I studied **Sound Engineering** before Computer Engineering, so I also have a strong background in audio tech and sound design.
+🚀 I actively integrate AI-assisted tooling and automation into engineering workflows to improve productivity and code quality, ensuring that the frontend architecture is as robust and maintainable as the backend.
+
+💼 Currently working as Full Stack Developer @ Santander Universidades (Banco Santander).
+📦 I love API design, automation, testing, and building resilient distributed systems.
+🧪 In my spare time, I explore backend performance and low-level tooling using Go (GoLang).
+🎧 I studied Sound Engineering before Computer Engineering, which gives me a unique perspective on signal processing and system design.
 
 📍 Born in Santiago de Compostela · Based in Valladolid · Spain
 
