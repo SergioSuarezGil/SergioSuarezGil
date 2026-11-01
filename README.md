@@ -1,4 +1,4 @@
-# Sergio Suárez Gil   ·  [Check my porfolio](https://sergiosuarezgil.com/)
+# · Sergio Suárez Gil · 
 
 ### Senior Full Stack Developer · Tech Lead · GenAI / MCP
 
@@ -18,6 +18,7 @@ Sound Engineering before Computer Engineering — signal-flow thinking for syste
 
 Born in Santiago de Compostela · Based in **Valladolid, Spain**
 
+**Check my portfolio:** [sergiosuarezgil.com](https://sergiosuarezgil.com/)
 
 ---
 
