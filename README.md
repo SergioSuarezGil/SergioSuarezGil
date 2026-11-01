@@ -1,210 +1,108 @@
-# Sergio Suárez Gil
+# Sergio Suárez Gil [sergiosuarezgil.com](https://sergiosuarezgil.com/)
 
-### Senior Full Stack Developer · Node.js · TypeScript · Go · Angular · AWS
+### Senior Full Stack Developer · Tech Lead · GenAI / MCP
 
-🙋🏻 Hi! I'm Sergio Suárez — a Senior Full Stack Developer passionate about building scalable distributed systems and modern cross-platform applications.
+**Node.js · TypeScript · NestJS · Python · FastAPI · Angular · React · AWS**
 
-💻 I specialize in the TypeScript ecosystem, architecting robust Node.js microservices (DDD & Hexagonal) while delivering high-performance web and mobile experiences with Angular and Ionic. I bridge the gap between complex cloud-native backends (AWS, Kafka, Redis, RabbitMQ) and polished, reactive interfaces.
+Hi! I'm Sergio Suárez — a Senior Full Stack Developer / Tech Lead passionate about building **scalable distributed systems** and modern cross-platform applications.
 
-🚀 I actively integrate AI-assisted tooling and automation into engineering workflows to improve productivity and code quality, ensuring that the frontend architecture is as robust and maintainable as the backend.
+Currently at  **Kairós DS** working in the project: **Full Stack Senior @ Santander Universidades (Banco Santander)**.
 
-💼 Currently working as Full Stack Developer @ Santander Universidades (Banco Santander).
-📦 I love API design, automation, testing, and building resilient distributed systems.
-🧪 In my spare time, I explore backend performance and low-level tooling using Go (GoLang).
-🎧 I studied Sound Engineering before Computer Engineering, which gives me a unique perspective on signal processing and system design.
+I specialize in the **TypeScript** ecosystem, architecting robust **Node.js / NestJS** microservices (**DDD & Hexagonal**) while delivering high-performance web and mobile experiences with **Angular**, **React** and **Ionic**. I bridge complex cloud-native backends (**AWS**, **Kafka**, **Redis**, **RabbitMQ**, **MongoDB**, **PostgreSQL**) and polished, reactive interfaces.
 
-📍 Born in Santiago de Compostela · Based in Valladolid · Spain
+I also ship GenAI into real workflows: **custom MCP tools**, **RAG** (**PostgreSQL + pgvector**), **Python / FastAPI** services, LangChain apps and n8n orchestration — plus advanced **Cursor** usage (Skills + MCPs).
+
+I love API design, automation, testing and resilient distributed systems.  
+Spare time: backend performance and low-level tooling with **Go**.  
+Sound Engineering before Computer Engineering — signal-flow thinking for systems & performance.
+
+Born in Santiago de Compostela · Based in **Valladolid, Spain**
+
+**Portfolio:** [sergiosuarezgil.com](https://sergiosuarezgil.com/)
 
 ---
 
-## ⚙️ Tech Stack
+## Architectures & patterns
 
-### 🧱 Backend, APIs & Architectures
-
-**Languages & runtimes**
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-%233972c8?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23efd81e?style=for-the-badge&logo=javascript&logoColor=000000)
-![Node.js](https://img.shields.io/badge/-Node.js-%237ec729?style=for-the-badge&logo=node.js&logoColor=ffffff)
-![Go](https://img.shields.io/badge/-GoLang-%2300ADD8?style=for-the-badge&logo=go&logoColor=ffffff)
-
-**Frameworks & API tech**
-
-![Express](https://img.shields.io/badge/-Express-%23000000?style=for-the-badge&logo=express&logoColor=ffffff)
-![NestJS](https://img.shields.io/badge/-NestJS-%23d70330?style=for-the-badge&logo=nestjs&logoColor=ffffff)
-![GraphQL](https://img.shields.io/badge/-GraphQL-%23da0593?style=for-the-badge&logo=GraphQL&logoColor=ffffff)
-![gRPC](https://img.shields.io/badge/-gRPC-%23009688?style=for-the-badge&logo=google-cloud&logoColor=ffffff)
-![OpenAPI](https://img.shields.io/badge/-OpenAPI/Swagger-%236BA539?style=for-the-badge&logo=swagger&logoColor=ffffff)
-![WebSockets](https://img.shields.io/badge/-WebSockets-%230076D6?style=for-the-badge&logo=socketdotio&logoColor=ffffff)
-
-**Architectures & patterns**
-
-- Clean architecture & hexagonal architecture
+- Clean Architecture & **Hexagonal**
 - Domain-Driven Design (**DDD**)
 - **Microservices** & distributed systems
-- RESTful APIs, gRPC & GraphQL
-- Event-driven systems & pub/sub
-- JSON Schema, validation & contracts
+- REST, **gRPC**, **GraphQL** · event-driven / pub-sub
+- JSON Schema, validation & API contracts
+- CI/CD, containers and cloud-native delivery
 
 ---
 
-### 🗄️ Databases, Storage & Messaging
+## Core stack
 
-**Databases & search**
+**Languages & frameworks**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-%233972c8?style=for-the-badge&logo=typescript&logoColor=ffffff) ![Node.js](https://img.shields.io/badge/-Node.js-%237ec729?style=for-the-badge&logo=node.js&logoColor=ffffff) ![NestJS](https://img.shields.io/badge/-NestJS-%23d70330?style=for-the-badge&logo=nestjs&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=ffffff) ![FastAPI](https://img.shields.io/badge/-FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=ffffff) ![Angular](https://img.shields.io/badge/-Angular-%23d70330?style=for-the-badge&logo=angular&logoColor=ffffff) ![React](https://img.shields.io/badge/-React-%235dcceb?style=for-the-badge&logo=react&logoColor=000000) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white) ![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=ffffff)
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-%233f2e1e?style=for-the-badge&logo=mongodb&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%232f5e8e?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-%23015e85?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=opera&logoColor=white&cacheSeconds=3600)
-![SQLite](https://img.shields.io/badge/-SQLite-%233394d0?style=for-the-badge&logo=sqlite&logoColor=ffffff)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-%2300AFAA?style=for-the-badge&logo=elasticsearch&logoColor=ffffff)
+**Data, cloud & delivery**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%232f5e8e?style=for-the-badge&logo=postgresql&logoColor=ffffff) ![MongoDB](https://img.shields.io/badge/-MongoDB-%233f2e1e?style=for-the-badge&logo=mongodb&logoColor=ffffff) ![Docker](https://img.shields.io/badge/-Docker-%230d97e4?style=for-the-badge&logo=docker&logoColor=ffffff) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZGOTkwMCIgZD0iTTEwLjUgMTcuNWMtMy4yIDAtNS44LTEuNy01LjgtNC4zIDAtMi4xIDEuNS0zLjggMy43LTQuM0M5LjIgNi44IDExLjIgNS41IDEzLjUgNS41YzIuNiAwIDQuOCAxLjcgNS40IDQgMi4xLjMgMy42IDEuOSAzLjYgMy45IDAgMi4zLTIgNC4xLTQuNSA0LjFIMTAuNXoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNy4yIDE5LjJjMi41IDEuNSA1LjggMi4zIDkuMyAyLjMgMi4zIDAgNC41LS40IDYuNS0xLjEuMy0uMS40LS40LjItLjYtLjgtLjktMS4zLTItMS41LTMuMiAwLS4yLS4yLS4zLS40LS4yLTIuMS45LTQuNCAxLjQtNi44IDEuNC0yLjIgMC00LjMtLjQtNi4yLTEuMi0uMi0uMS0uNCAwLS40LjIuMSAxIC4wIDItLjcgMi40eiIvPjwvc3ZnPg%3D%3D) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Caching, queues & streaming**
+**APIs, messaging & architecture**  
+![Microservices](https://img.shields.io/badge/Microservices-0F766E?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iNiIgY3k9IjYiIHI9IjIuMiIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjE4IiBjeT0iNiIgcj0iMi4yIiBmaWxsPSIjZmZmIi8%2BPGNpcmNsZSBjeD0iNiIgY3k9IjE4IiByPSIyLjIiIGZpbGw9IiNmZmYiLz48Y2lyY2xlIGN4PSIxOCIgY3k9IjE4IiByPSIyLjIiIGZpbGw9IiNmZmYiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIyLjUiIGZpbGw9IiNmZmYiLz48cGF0aCBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBkPSJNNy44IDcuOGwyLjUgMi41TTE2LjIgNy44bC0yLjUgMi41TTcuOCAxNi4ybDIuNS0yLjVNMTYuMiAxNi4ybC0yLjUtMi41Ii8%2BPC9zdmc%2B) ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQuNSA3LjVDNC41IDUuNiA2IDQgOCA0aDEuMmMuNCAwIC44LjMuOC44UzkuNiA1LjUgOS4yIDUuNUg4Yy0xLjEgMC0yIC45LTIgMnYxLjJjMCAuNC0uMy44LS44LjhTNC41IDExIDQuNSAxMC42VjcuNXptMTUgMHYzLjFjMCAuNC0uMy44LS44LjhzLS44LS4zLS44LS44VjcuNWMwLTEuMS0uOS0yLTItMmgtMS4yYy0uNCAwLS44LS4zLS44LS44cy4zLS44LjgtLjhIMTZjMiAwIDMuNSAxLjYgMy41IDMuNXpNNC41IDE2LjV2LTMuMWMwLS40LjMtLjguOC0uOHMuOC4zLjguOHYzLjFjMCAxLjEuOSAyIDIgMmgxLjJjLjQgMCAuOC4zLjguOHMtLjMuOC0uOC44SDhjLTIgMC0zLjUtMS42LTMuNS0zLjV6bTE1IDBjMCAyLTEuNSAzLjUtMy41IDMuNWgtMS4yYy0uNCAwLS44LS4zLS44LS44cy4zLS44LjgtLjhIMTZjMS4xIDAgMi0uOSAyLTJ2LTMuMWMwLS40LjMtLjguOC0uOHMuOC4zLjguOHYzLjF6Ii8%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTguMiAxMS4yaDcuNmMuNCAwIC43LjMuNy43di4yYzAgLjQtLjMuNy0uNy43SDguMmMtLjQgMC0uNy0uMy0uNy0uN3YtLjJjMC0uNC4zLS43LjctLjd6Ii8%2BPC9zdmc%2B) ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJsOC43IDV2MTBMMTIgMjJsLTguNy01VjdMMTIgMnptMCAyLjNMNS44IDh2OGw2LjIgMy43TDE4LjIgMTZWOEwxMiA0LjN6Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMi4yIiBmaWxsPSIjZmZmIi8%2BPHBhdGggc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgZD0iTTEyIDkuOFY2LjVNMTQuMiAxMy4xbDIuOSAxLjdNOS44IDEzLjFMNi45IDE0LjgiLz48L3N2Zz4%3D) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=ffffff)
-![Kafka](https://img.shields.io/badge/-Kafka-%23231F20?style=for-the-badge&logo=apache-kafka&logoColor=ffffff)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=ffffff)
-![AWS SQS](https://img.shields.io/badge/AWS%20SQS-FF9900?style=for-the-badge&logo=alpinelinux&logoColor=white)
+**GenAI & automation**  
+![MCP](https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjgiIGhlaWdodD0iOCIgcng9IjEuNSIgZmlsbD0iI2ZmZiIvPjxyZWN0IHg9IjEzIiB5PSIzIiB3aWR0aD0iOCIgaGVpZ2h0PSI4IiByeD0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuODUiLz48cmVjdCB4PSIzIiB5PSIxMyIgd2lkdGg9IjgiIGhlaWdodD0iOCIgcng9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iLjg1Ii8%2BPHJlY3QgeD0iMTMiIHk9IjEzIiB3aWR0aD0iOCIgaGVpZ2h0PSI4IiByeD0iMS41IiBmaWxsPSIjZmZmIi8%2BPHBhdGggc3Ryb2tlPSIjMTExODI3IiBzdHJva2Utd2lkdGg9IjEuNSIgZD0iTTExIDdoMk03IDExdjJNMTcgMTF2Mk0xMSAxN2gyIi8%2BPC9zdmc%2B) ![RAG](https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjMiIGZpbGw9IiNmZmYiLz48Y2lyY2xlIGN4PSIxNiIgY3k9IjciIHI9IjIuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iLjkiLz48Y2lyY2xlIGN4PSIxNyIgY3k9IjE1IiByPSIyLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9Ii44NSIvPjxjaXJjbGUgY3g9IjgiIGN5PSIxNiIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iLjkiLz48cGF0aCBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMS42IiBkPSJNMTAuNSA5LjVsMy4yLTEuMk0xNS4yIDkuMmwuNiAzLjVNMTQuOCAxNS4ybC00LjIuNk05LjUgMTQuMmwtLjItMy41Ii8%2BPC9zdmc%2B) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
----
 
-### 🎨 Frontend & Hybrid Apps
+## Selected experience
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-%23bf6190?style=for-the-badge&logo=sass&logoColor=ffffff)
+- **Santander Universidades (Banco Santander) · Kairós DS** — Full Stack Senior (present)  
+  Angular monorepos + microservices (**DDD / hexagonal**), gRPC, Elasticsearch, MongoDB, Redis, Kafka, Kubernetes, Helm, AWS.  
+  Daily AI workflows (**Cursor**, Copilot, Windsurf, Devin) and **custom MCPs** for day-to-day engineering.
 
-![Angular](https://img.shields.io/badge/-Angular-%23d70330?style=for-the-badge&logo=angular&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-%235dcceb?style=for-the-badge&logo=react&logoColor=000000)
-![Ionic](https://img.shields.io/badge/-Ionic-%234c8aef?style=for-the-badge&logo=ionic&logoColor=ffffff)
+- **Wattwin** — Backend Components Tech Lead  
+  NestJS / TypeScript microservices & shared libraries, MongoDB, Elasticsearch, Docker, AWS.  
+  **LangChain + Anthropic** for conversational AI in production backends.
 
----
+- **PagoNxt (Banco Santander) · Kairós DS** — Backend Developer → Backend Tech Lead  
+  **DDD microservices** with Node.js, Express, TypeScript, PostgreSQL, JSON Schema, Jest, Kubernetes, AWS.
 
-### 🧪 Testing & Quality
+- **Daptalis** — automation & GenAI ops  
+  Custom **MCP** tooling, **Python / FastAPI**, **pgvector / RAG**, n8n, Docker microservices + control center.
 
-![Jest](https://img.shields.io/badge/-Jest-%23C63D14?style=for-the-badge&logo=jest&logoColor=ffffff)
-![Vitest](https://img.shields.io/badge/-Vitest-%236E9F18?style=for-the-badge&logo=vitest&logoColor=ffffff)
-![Testing Library](https://img.shields.io/badge/-Testing%20Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=ffffff)
-![Cypress](https://img.shields.io/badge/-Cypress-%23000000?style=for-the-badge&logo=cypress&logoColor=ffffff)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=pug&logoColor=white)
-![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=jasmine&logoColor=ffffff)
-![Karma](https://img.shields.io/badge/Karma-3DDC84?style=for-the-badge&logo=kaios&logoColor=white)
-![Supertest](https://img.shields.io/badge/-Supertest-%23323330?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
-
-- Unit & integration tests with **Jest / Vitest** (Node.js, TypeScript)
-- Component tests with **Testing Library** (React / Angular)
-- e2e testing with **Cypress** & **Playwright**
-- Contract testing & API-first workflows (OpenAPI/Swagger)
+- **Syntonize / MAHLE / others** — full stack  
+  Angular, Ionic, React, Node.js, GraphQL, PostgreSQL/MongoDB, RabbitMQ, Docker, AWS/Azure · earlier sysadmin & .NET roots.
 
 ---
 
-### 📦 Bundling & Tooling
+## GenAI & agent tooling
 
-![Webpack](https://img.shields.io/badge/-Webpack-%238DD6F9?style=for-the-badge&logo=webpack&logoColor=000000)
-![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=ffffff)
-![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=ffffff)
-![Turborepo](https://img.shields.io/badge/-Turborepo-%23000000?style=for-the-badge&logo=turborepo&logoColor=ffffff)
+I treat AI as part of the engineering process — not just a chat box.
 
----
-
-### ☁️ Cloud, DevOps & Infra
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=alpinelinux&logoColor=white&cacheSeconds=3600)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=actix&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-%230d97e4?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
-![Helm](https://img.shields.io/badge/-Helm-%230F1689?style=for-the-badge&logo=helm&logoColor=ffffff)
-
-![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=000000)
-![Nginx](https://img.shields.io/badge/-Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=ffffff)
-![Apache](https://img.shields.io/badge/-Apache-%23D22128?style=for-the-badge&logo=apache&logoColor=ffffff)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
-- CI/CD, microservices deployment, observability basics
-- SysAdmin background (Windows Server, Linux, networking)
+- **Custom MCP servers & tools** — business/dev capabilities for agents (Santander Universidades + Daptalis)
+- **Cursor-first workflows** — advanced daily use of **Cursor**, custom **Skills** and **MCPs** for architecture, coding, reviews and ops
+- **RAG** — embeddings, vector search, grounded answers with **PostgreSQL + pgvector**
+- **LLM apps in production** — LangChain / Anthropic (Wattwin); n8n + LLM chains for operational automation
+- **AI-assisted code review** — PR-Agent (**Qodo**) in GitHub Actions with structured prompts & guardrails
+- Daily tools also include Copilot, Claude Code, Codex and similar agentic assistants
 
 ---
 
-## 🤖 AI-Augmented Engineering & Developer Tooling
+## Learning
 
-I integrate AI into real engineering workflows to improve developer productivity, code quality and feedback cycles — treating AI as part of the development process, not just as a coding assistant.
-
-### 🔍 AI-Assisted Code Review
-
-- Integrated **PR-Agent (Qodo AI)** into GitHub Actions CI pipelines to automate pull request reviews.
-- Designed structured prompts and guardrails to ensure consistent, actionable feedback across repositories.
-- Accelerated review cycles while maintaining engineering standards and code consistency.
-
-### 🧠 AI in Architecture & Development Workflows
-
-- Completed a **Master’s program in Artificial Intelligence**, strengthening my understanding of ML fundamentals and applied AI tooling.
-- Advanced daily use of **Microsoft GitHub Copilot**, **ChatGPT (GPT models including codex)** and **Claude Code** for:
-  - Architecture design and trade-off analysis
-  - Refactoring and test generation
-  - API contract design and validation logic
-  - Debugging complex distributed backend systems
-
----
-
-### 🧰 Tools & Utilities
-
-- IDEs & editors: Visual Studio Code, Xcode, Android Studio
-- API tools: Postman, Insomnia, Altair GraphQL
-- VCS & project tools: Git, Git Fork, Sourcetree, Bitbucket, GitLab, JIRA
-- Scripting: **bash** for automation and tooling
-
----
-
-## 🔧 Core experience from real-world projects
-
-Technologies I use most in production projects:
-
-- **Santander Universidades (Banco Santander) – Kairós DS**  
-  Node.js, TypeScript, Angular, **microservices**, **gRPC**, **Elasticsearch**, MongoDB, Redis, **Kafka**, Kubernetes, **Helm**, Swagger/OpenAPI, WebSockets, AWS.  
-  Actively leveraging **GitHub Copilot** and AI-assisted workflows to improve development speed, refactoring quality and test coverage consistency within backend microservices.
-
-- **Wattwin**  
-  Backend Components Tech Lead with Node.js, TypeScript, **NestJS**, Express, **microservices & shared libraries**, MongoDB, Elasticsearch, Docker, AWS, OpenAPI, event-driven comms (Deepstream).  
-  Experimented with AI-driven backend tooling using **Claude (Anthropic LLM)** and internal AI workflows, building microservices designed to integrate LLM-based capabilities into backend systems.
-  Built a NestJS/TypeScript microservice integrating LangChain with an Anthropic LLM chat model for AI-driven conversational capabilities.
-
-- **PagoNxt (Banco Santander) – Kairós DS**  
-  Backend Tech Lead & Backend Developer building **DDD microservices** with **Node.js**, Express, TypeScript, Jest, Swagger, PostgreSQL, AWS, JSON Schema, Kubernetes.
-
-- **Syntonize / MAHLE / CIS21 & others**  
-  Full stack roles using Angular, Ionic, React, Node.js, GraphQL, PostgreSQL, MongoDB, RabbitMQ, Docker, AWS/Azure, mobile & hybrid apps, plus earlier sysadmin & .NET background..
-
----
-
-## 🎓 Currently upskilling (Front-end & tooling Bootcamp)
-
-Actively completing a modern front-end & tooling bootcamp focused on:
-
-- **Advanced Layout & UX**: responsive design, CSS Grid/Flexbox, animations, design patterns, accessibility, **Figma → CSS**.
-- **Modern JavaScript / TypeScript**: core & advanced language features, best practices and architecture for frontend apps.
-- **Styling & frameworks**: Tailwind, CSS-in-JS, design systems.
-- **Bundling & libraries**: Webpack, **Vite** (apps & libraries), Rollup, Turborepo, monorepo patterns.
-- **Frameworks & meta-frameworks**: React, Angular, Vue, Svelte, Solid, Web Components, Lit, Astro, Next.js, TanStack Start, Nuxt, Micro-frontends.
-- **Testing**: unit & integration tests with Jest/Vitest + Testing Library (React/Angular) and **e2e with Cypress & Playwright**.
-- **APIs & cloud**: REST APIs, WebSockets, GraphQL, payment integrations, Docker, basic cloud deploys.
-- **Mobility**: PWA and React Native.
+- Master's / advanced programs in **AI for software development** — agents, RAG, MCP, prompt & context engineering
+- Continuous deep practice with **Cursor** (Skills + MCPs) and the broader agentic coding stack
 
 ---
 
 ## A bit more about me
 
-- Backend is my main strength: APIs, microservices, RESTful, GraphQL, and more.
-- Strong **Node.js + TypeScript** experience across fintech, banking, energy and web platforms.
-- SysAdmin roots: networking, servers, Windows + Linux environments.
-- Solid **audio engineering** background → I enjoy performance, signal-flow thinking and audio-related projects.
-- Team player, tech lead, tech mentor & problem solver.
+- Backend is my main strength: APIs, microservices, REST / GraphQL / gRPC
+- Strong **Node.js + TypeScript** across fintech, banking, energy and product platforms — plus growing **Python / FastAPI**
+- Ops background: networking, servers, deploy & **DevOps** on **macOS** + **Linux**
+- Tech lead / mentor · problem solver · team player
 
 ---
 
-## Reach me on
+## Reach me
 
-<a target="_blank" href="https://www.linkedin.com/in/sergio-suarez"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=lucid&logoColor=white" alt="LinkedIn"></a>
-<a target="_blank" href="https://x.com/Sergio_SZG"><img src="https://img.shields.io/badge/Sergio_SZG-%23000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-<a target="_blank" href="https://cancanit.com/certified/1387/"><img src="https://img.shields.io/badge/JS%20Certified-%233f8fa7.svg?&style=for-the-badge&logo=c&logoColor=white" alt="CancanIT"></a>
-<a target="_blank" href="https://dev.to/SergioSuarezGil"><img src="https://img.shields.io/badge/DEV.TO-%23000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.To"></a>
-<a target="_blank" href="mailto&#58;%73o&#37;79&#64;&#115;e%72gi&#111;su&#97;rez&#103;i%&#54;C&#46;com"><img src="https://img.shields.io/badge/Email%20me-%23EC5664.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
+<a target="_blank" href="https://sergiosuarezgil.com/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bS0xIDE3LjkzYy0zLjk1LS40OS03LTMuODUtNy03LjkzIDAtLjYyLjA4LTEuMjEuMjEtMS43OUw5IDE1djFjMCAxLjEuOSAyIDIgMnYxLjkzem02LjktMi41NGMtLjI2LS44MS0xLTEuMzktMS45LTEuMzloLTF2LTNjMC0uNTUtLjQ1LTEtMS0xSDh2LTJoMmMuNTUgMCAxLS40NSAxLTFWN2gyYzEuMSAwIDItLjkgMi0ydi0uNDFjMi45MyAxLjE5IDUgNC4wNiA1IDcuNDEgMCAyLjA4LS44IDMuOTctMi4xIDUuMzl6Ii8%2BPC9zdmc%2B" alt="Portfolio"></a>
+<a target="_blank" href="https://www.linkedin.com/in/sergio-suarez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"></a>
+<a target="_blank" href="https://x.com/Sergio_SZG"><img src="https://img.shields.io/badge/Sergio_SZG-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a target="_blank" href="https://cancanit.com/certified/1387/"><img src="https://img.shields.io/badge/JS_Certified-3f8fa7?style=for-the-badge&logo=javascript&logoColor=white" alt="CancanIT"></a>
+<a target="_blank" href="https://dev.to/SergioSuarezGil"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.To"></a>
+<a target="_blank" href="mailto&#58;%73o&#37;79&#64;&#115;e%72gi&#111;su&#97;rez&#103;i%&#54;C&#46;com"><img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
