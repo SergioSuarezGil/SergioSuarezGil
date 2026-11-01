@@ -18,7 +18,8 @@ Sound Engineering before Computer Engineering — signal-flow thinking for syste
 
 Born in Santiago de Compostela · Based in **Valladolid, Spain**
 
-**Check my portfolio:** [sergiosuarezgil.com](https://sergiosuarezgil.com/)
+**Check my portfolio:** <a href="https://sergiosuarezgil.com/" target="_blank" rel="noopener noreferrer">sergiosuarezgil.com</a>
+
 
 ---
 
