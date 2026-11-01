@@ -1,4 +1,4 @@
-# Sergio Suárez Gil   [Porfolio](https://sergiosuarezgil.com/)
+# Sergio Suárez Gil   ·  [Check my porfolio](https://sergiosuarezgil.com/)
 
 ### Senior Full Stack Developer · Tech Lead · GenAI / MCP
 
